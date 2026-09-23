@@ -2,7 +2,7 @@
 
 ### CSE @ VIT Vellore • AI/ML • Data Analytics • Software Engineering • Cloud
 
-<p align="center"><a href="https://github.com/Subham9339063436"><img src="https://img.shields.io/badge/GitHub-Subham9339063436-181717?style=for-the-badge&logo=github" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/subhamhazra-3165152b1/"><img src="https://img.shields.io/badge/LinkedIn-Subham%20Hazra-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a> <a href="mailto:subham.hazra2024@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+<p align="center"><a href="https://github.com/Subham9339063436"><img src="https://img.shields.io/badge/GitHub-Subham9339063436-181717?style=for-the-badge&logo=github" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/subham-hazra21/"><img src="https://img.shields.io/badge/LinkedIn-Subham%20Hazra-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a> <a href="mailto:subham.hazra2024@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Subham9339063436&style=for-the-badge&color=0f172a" alt="Profile views" /></p>
 
@@ -110,6 +110,6 @@ I maintain a public fork of the open-source **Career Pilot** project while build
 
 ## 📫 Let's Connect
 
-<p align="center"><a href="https://www.linkedin.com/in/subhamhazra-3165152b1/"><strong>LinkedIn</strong></a> • <a href="https://github.com/Subham9339063436"><strong>GitHub</strong></a> • <a href="mailto:subham.hazra2024@vitstudent.ac.in"><strong>Email</strong></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/subham-hazra21/"><strong>LinkedIn</strong></a> • <a href="https://github.com/Subham9339063436"><strong>GitHub</strong></a> • <a href="mailto:subham.hazra2024@vitstudent.ac.in"><strong>Email</strong></a></p>
 
 <p align="center"><sub>Building in public • Learning continuously • Shipping useful things</sub></p>
