@@ -42,11 +42,11 @@ Git • GitHub • Linux • Docker • AWS • Google Cloud
 
 ---
 
-## 🔭 Current Build
+## ⭐ Featured Project
 
 ### 📊 Amazon Sales Intelligence & Forecasting
 
-A portfolio-focused evolution of an Amazon sales analytics project, currently being developed around:
+An end-to-end forecasting and analytics platform built around:
 
 - Data cleaning & exploratory analysis
 - Time-series forecasting
@@ -57,9 +57,11 @@ A portfolio-focused evolution of an Amazon sales analytics project, currently be
 - REST API + Docker
 - Cloud deployment
 
-**Status:** 🚧 In active development
+**Status:** ✅ Core build complete • Deployment-ready locally • Cloud deployment not yet performed
 
-> Project metrics and claims will be added only after the pipeline is actually executed and verified.
+[Open the project repository](https://github.com/Subham9339063436/amazon-sales-intelligence)
+
+**Verified:** 64 automated tests, Streamlit dashboard smoke test, Flask `/health` + `/model` + `/predict`, and Docker image/API smoke testing.
 
 ## 💼 Experience
 
